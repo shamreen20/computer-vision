@@ -1,18 +1,15 @@
 '''
 
-Histogram Backprojection
+Histogram Backprojection:
 
-In this blog, we will discuss Histogram Backprojection, a technique that is used for image segmentation or finding objects of interest in an image. It was proposed by Michael J. Swain, Dana H. Ballard in their paper Indexing via color histograms, Third international conference on computer vision,1990.
-
+In this blog, we will discuss Histogram Backprojection, a technique that is used for image segmentation or finding objects of interest in an image.
+It was proposed by Michael J. Swain, Dana H. Ballard in their paper Indexing via color histograms, Third international conference on computer vision,1990.
 This was one of the first works that use color to address the classic problem of Classification and Localisation in computer vision.
 
-To understand this technique, knowledge of histograms (particularly 2-D histograms) is a must. If you haven’t encountered 2-d histograms yet, I suggest you to read What is a 2-D histogram?
+To understand this technique, knowledge of histograms (particularly 2-D histograms) is a must. 
+If you haven’t encountered 2-d histograms yet, I suggest you to read What is a 2-D histogram?     '''
 
 
-
-
-
-                                                                                          '''
 
 # importing libraies
 import cv2
