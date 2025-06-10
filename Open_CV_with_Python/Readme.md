@@ -7,7 +7,7 @@ This repository provides a comprehensive guide to using OpenCV with Python, cove
 ##### Reading and Writing Images
 - Load images from files using OpenCV's imread function in various formats.
 - Save modified images to disk with imwrite for further use.
-- Link to Folder/script: [Reading and Writing Images](./Reading_and_Writing_images/Reading_and_writing_images/reading_and_writing.ipynb.ipynb)
+- Link to Folder/script: [Reading and Writing Images](./Reading_and_Writing_images/reading_and_writing.ipynb)
 
 
 
